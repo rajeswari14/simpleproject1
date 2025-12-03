@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Raji Netflix</title>
+<title>Mini Netflix</title>
 
 <style>
     body {
@@ -116,7 +116,7 @@
 
 <!-- NAVBAR -->
 <div class="navbar">
-    <div class="logo">MiniFlix</div>
+    <div class="logo">Raji's MiniFlix</div>
     <div class="nav-links">
         <a href="#">Home</a>
         <a href="#">TV Shows</a>
